@@ -1,0 +1,1 @@
+This currency converter provides an intuitive and user-friendly interface where users can select a source currency, a target currency, and input an amount to convert. The application fetches the latest exchange rates from a public API and displays the converted amount. The design is responsive, making it easy to use on both desktop and mobile devices.
